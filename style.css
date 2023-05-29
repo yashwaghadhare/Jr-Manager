@@ -126,6 +126,13 @@
   }
 }
 
+@media only screen and (max-width: 1281px) {
+  .css-card {
+    width: 20em;
+    height: 27em;
+  }
+}
+
 @media only screen and (max-width: 1200px) {
   .css-card {
     width: 18em;
@@ -140,10 +147,61 @@
   }
 }
 
+@media only screen and (max-width: 990px) {
+  .css-card {
+    width: 20em;
+    height: 27em;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .css-card {
+    width: 30em;
+    height: 27em;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .css-card {
+    width: 45em;
+    height: 27em;
+  }
+}
+
 
 @media only screen and (max-width: 580px) {
   .css-card {
+    width: 30em;
+    height: 27em;
+  }
+}
+
+
+@media only screen and (max-width: 500px) {
+  .css-card {
+    width: 28em;
+    height: 27em;
+  }
+}
+
+@media only screen and (max-width: 415px) {
+  .css-card {
     width: 22em;
+    height: 27em;
+  }
+}
+
+
+@media only screen and (max-width: 365px) {
+  .css-card {
+    width: 20em;
+    height: 27em;
+  }
+}
+
+@media only screen and (max-width: 285px) {
+  .css-card {
+    width: 15em;
     height: 27em;
   }
 }
